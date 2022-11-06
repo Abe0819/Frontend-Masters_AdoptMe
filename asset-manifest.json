@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Frontend-Masters_AdoptMe/static/css/main.80467b88.css",
+    "main.js": "/Frontend-Masters_AdoptMe/static/js/main.370582ec.js",
+    "index.html": "/Frontend-Masters_AdoptMe/index.html",
+    "main.80467b88.css.map": "/Frontend-Masters_AdoptMe/static/css/main.80467b88.css.map",
+    "main.370582ec.js.map": "/Frontend-Masters_AdoptMe/static/js/main.370582ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80467b88.css",
+    "static/js/main.370582ec.js"
+  ]
+}
